@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yazansedih.yazansedih" />
+<img align="right" src="https://komarev.com/ghpvc/?username=yazansedih&color=fb4362"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yazan+Al-Sedih!;" />
@@ -13,7 +13,6 @@
 
 </h1>
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
 
 <h3>When I code, I rely on</h3>
 <p>
