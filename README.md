@@ -42,11 +42,11 @@
 
 <div style="display:flex; justify-content: space-between;">
      <a href="https://git.io/streak-stats" style="display: inline-block;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" style="width: 495px; height: 200px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" style="width: 480px; height: 200px;">
     </a>
     
 <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=dark&langs_count=10&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=495&hide_border=true" alt="Top Langs" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=dark&langs_count=10&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=480&hide_border=true" alt="Top Langs" style="height: 200px;">
 </a>
 </div>
 
