@@ -7,8 +7,8 @@
    [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/s12010059/)
    [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/share/ZVVjoCVUcs5hfTsM/?mibextid=AEUHqQ)
    [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yazansedih?igsh=djN3bWtpcWt4Mm44&utm_source=qr)
-   [![Twitter Badge](https://img.shields.io/badge/-X-9B59B6?style=flat-square&logo=X&logoColor=white)]([https://x.com/](https://x.com/yazansedeh))
-   [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
+   [![Twitter Badge](https://img.shields.io/badge/-X-9B59B6?style=flat-square&logo=X&logoColor=white)](https://x.com/yazansedeh)
+   [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://l.facebook.com/l.php?u=https%3A%2F%2Ft.me%2Fyazansedih&h=AT0D-NBLox2wh7BXP8LzkGhE07r9gj0MYtDDkVZi-gKW-lHuvHOlcidISpHh5J23_Mgyx14v9tZmQ9aXdT7h33bANupqotJfwB1CJ_rvrnKEDhv3YNdmuVZvNS-RbxPTpSF1&s=1)
    [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yazansedih@gmail.com)
 
 </h1>
