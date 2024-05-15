@@ -40,13 +40,11 @@
 
 ### 🔥 &nbsp; My Stats :
 
-<div style="display:inline-block">
+<div style="display:flex">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak">
   </a>
-</div>
 
-<div style="display:inline-block">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=dark&langs_count=10&title_color=fb4362&text_color=ffffff&icon_color=fb4362&bg_color=0d1117&card_width=495" alt="Top Langs">
   </a>
