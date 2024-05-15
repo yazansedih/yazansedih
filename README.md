@@ -5,11 +5,9 @@
 
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-al-sedih-4855162b0/)
    [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/s12010059/)
-   
    [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white)]([https://facebook.com/](https://www.facebook.com/share/ZVVjoCVUcs5hfTsM/?mibextid=AEUHqQ))
    [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yazansedih?igsh=djN3bWtpcWt4Mm44&utm_source=qr)
-   [![X Badge](https://img.shields.io/badge/-X-9B59B6?style=flat-square&logo=X&logoColor=white)]([https://x.com/](https://x.com/yazansedeh))
-   
+   [![Twitter Badge](https://img.shields.io/badge/-X-9B59B6?style=flat-square&logo=X&logoColor=white)]([https://x.com/](https://x.com/yazansedeh))
    [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
    [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yazansedih@gmail.com)
 
