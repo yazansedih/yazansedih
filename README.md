@@ -43,4 +43,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=dark&title_color=fb4362&text_color=fb4362&icon_color=fb4362&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
