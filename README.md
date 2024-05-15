@@ -41,5 +41,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=dark&title_color=fb4362&text_color=fb4362&icon_color=fb4362&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=dark&title_color=ffffff&text_color=fb4362&icon_color=fb4362&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
