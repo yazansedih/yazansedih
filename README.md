@@ -10,7 +10,6 @@
    [![X Badge](https://img.shields.io/badge/-X-9B59B6?style=flat-square&logo=X&logoColor=white)](https://x.com/yazansedeh)
    [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://l.facebook.com/l.php?u=https%3A%2F%2Ft.me%2Fyazansedih&h=AT0D-NBLox2wh7BXP8LzkGhE07r9gj0MYtDDkVZi-gKW-lHuvHOlcidISpHh5J23_Mgyx14v9tZmQ9aXdT7h33bANupqotJfwB1CJ_rvrnKEDhv3YNdmuVZvNS-RbxPTpSF1&s=1)
    [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yazansedih@gmail.com)
-
 </h1>
 
 
