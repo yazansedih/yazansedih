@@ -28,9 +28,10 @@
 <br>
 
 <div align="center"> 
-    <a href="[mailto:yazansedih@gmail.com](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yazansedih@gmail.com)">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>      
+  <a href="mailto:yazansedih@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+    <br><br>
 </div>
 
 
