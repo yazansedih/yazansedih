@@ -1,10 +1,11 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=yazansedih&color=fb4362"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yazan+Al-Sedih!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yazan+Al-Sedih!;" />    
 </h1>
 
 <br>
+
 <div align="center">     
     <a href="https://www.linkedin.com/in/yazan-al-sedih-4855162b0/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /
@@ -22,15 +23,16 @@
     <a href="https://yazansedih.github.io/portfolio/" target="blank">
         <img align="center" src="https://github.com/yazansedih/yazansedih/assets/137224224/325e1c99-cd43-45f3-9221-852ce61be771" alt="leetcode" height="40" width="40" />
     </a>
-</div>
+</div>    
+
 <br>
 
 <div align="center"> 
-  <a href="[mailto:yazansedih@gmail.com](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yazansedih@gmail.com)">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <br><br>
+    <a href="[mailto:yazansedih@gmail.com](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yazansedih@gmail.com)">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>      
 </div>
+
 
 <h3>When I code, I rely on</h3>
 <p>
