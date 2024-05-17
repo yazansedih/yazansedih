@@ -49,7 +49,8 @@
 
 <div style="display:flex; justify-content: space-between;">
      <a href="https://github.com/yazansedih" style="display: inline-block;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=yazansedih&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" style="width: 500px; height: 200px;">
+<!--       <img src="https://github-readme-streak-stats.herokuapp.com?user=yazansedih&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" style="width: 500px; height: 200px;"> -->
+         [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yazansedih&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://github.com/yazansedih)
     </a>
     
    <a href="https://github.com/yazansedih" style="display: inline-block;">
