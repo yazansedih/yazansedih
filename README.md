@@ -2,16 +2,35 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yazan+Al-Sedih!;" />
-
-   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-al-sedih-4855162b0/)
-   [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/s12010059/)
-   [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/share/ZVVjoCVUcs5hfTsM/?mibextid=AEUHqQ)
-   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yazansedih?igsh=djN3bWtpcWt4Mm44&utm_source=qr)
-   [![X Badge](https://img.shields.io/badge/-X-9B59B6?style=flat-square&logo=X&logoColor=white)](https://x.com/yazansedeh)
-   [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://l.facebook.com/l.php?u=https%3A%2F%2Ft.me%2Fyazansedih&h=AT0D-NBLox2wh7BXP8LzkGhE07r9gj0MYtDDkVZi-gKW-lHuvHOlcidISpHh5J23_Mgyx14v9tZmQ9aXdT7h33bANupqotJfwB1CJ_rvrnKEDhv3YNdmuVZvNS-RbxPTpSF1&s=1)
-   [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yazansedih@gmail.com)
 </h1>
 
+<br>
+<div align="center">     
+    <a href="https://www.linkedin.com/in/yazan-al-sedih-4855162b0/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /
+    </a>
+    <a href="https://www.facebook.com/share/ZVVjoCVUcs5hfTsM/?mibextid=AEUHqQ" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/yazansedih?igsh=djN3bWtpcWt4Mm44&utm_source=qr" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+    <a href="https://x.com/yazansedeh" target="_blank">
+        <img align="center" src="https://github.com/yazansedih/yazansedih/assets/137224224/6d1eca7b-fe9d-42de-8021-0891a59fad01" alt="yazansedeh" height="40" width="40" />
+    </a>
+    <a href="https://leetcode.com/u/s12010059/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+    </a>
+    <a href="https://yazansedih.github.io/portfolio/" target="blank">
+        <img align="center" src="https://github.com/yazansedih/yazansedih/assets/137224224/325e1c99-cd43-45f3-9221-852ce61be771" alt="leetcode" height="40" width="40" />
+    </a>
+</div>
+<br>
+
+<div align="center"> 
+  <a href="[mailto:yazansedih@gmail.com](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yazansedih@gmail.com)">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <br><br>
+</div>
 
 <h3>When I code, I rely on</h3>
 <p>
