@@ -14,13 +14,13 @@
     <a href="https://www.instagram.com/yazansedih?igsh=djN3bWtpcWt4Mm44&utm_source=qr" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
     <a href="https://x.com/yazansedeh" target="_blank">
-        <img align="center" src="https://github.com/yazansedih/yazansedih/assets/137224224/6d1eca7b-fe9d-42de-8021-0891a59fad01" alt="yazansedeh" height="40" width="40" />
+        <img align="center" src="https://github.com/yazansedih/yazansedih/assets/137224224/6d1eca7b-fe9d-42de-8021-0891a59fad01" alt="x" height="40" width="40" />
     </a>
     <a href="https://leetcode.com/u/s12010059/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
     </a>
     <a href="https://yazansedih.github.io/portfolio/" target="blank">
-        <img align="center" src="https://github.com/yazansedih/yazansedih/assets/137224224/325e1c99-cd43-45f3-9221-852ce61be771" alt="leetcode" height="40" width="40" />
+        <img align="center" src="https://github.com/yazansedih/yazansedih/assets/137224224/325e1c99-cd43-45f3-9221-852ce61be771" alt="portfolio" height="40" width="40" />
     </a>
 </div>    
 
