@@ -33,7 +33,6 @@
     <br><br>
 </div>
 
-
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -75,7 +74,6 @@
     
    <a href="https://github.com/yazansedih" style="display: inline-block;">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazansedih&layout=compact&theme=dark&langs_count=10&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=200&hide_border=true" alt="Top Langs" style="height: 200px;">
-<!--        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazansedih&layout=compact&theme=dark&langs_count=10&hide=css,html&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=200&hide_border=true" alt="Top Langs" style="height: 200px;"> -->
    </a>
 </div>
 
