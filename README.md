@@ -33,7 +33,7 @@
     <br><br>
 </div>
 
-<h3>When I code, I rely on :</h3>
+<h3>🌹 When I code, I rely on :</h3>
 <p>
   <!-- Web Development -->
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -115,7 +115,7 @@
 
 <br>
 
-### 🔥 &nbsp; My Stats :
+### 🔥 My Stats :
 
 <div style="display:flex; justify-content: space-between;">
     <a href="https://github.com/yazansedih" style="display: inline-block;">
