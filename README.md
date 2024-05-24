@@ -72,6 +72,8 @@
   <!-- DevOps and Deployment -->
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 
   <!-- Database Management -->
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" />
@@ -108,6 +110,7 @@
   <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="GitHub Desktop" src="https://img.shields.io/badge/-GitHub%20Desktop-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
+
 
 
 <br>
