@@ -64,7 +64,6 @@
   <img alt="JavaFX" src="https://img.shields.io/badge/-JavaFX-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
 
   <!-- Testing -->
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
@@ -73,7 +72,6 @@
   <!-- DevOps and Deployment -->
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 
   <!-- Database Management -->
@@ -95,7 +93,6 @@
 
   <!-- Integrated Development Environments -->
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 
   <!-- Productivity Tools -->
   <img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white" />
