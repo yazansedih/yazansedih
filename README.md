@@ -69,8 +69,6 @@
   <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit&logoColor=white" />
 
   <!-- DevOps and Deployment -->
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 
   <!-- Database Management -->
