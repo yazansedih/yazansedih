@@ -45,8 +45,9 @@
   <!-- Backend Development -->
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />  
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
 
   <!-- Version Control and Collaboration -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -115,13 +116,7 @@
 <div style="display:flex; justify-content: space-between;">
     <a href="https://github.com/yazansedih" style="display: inline-block;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=yazansedih&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" style="width: 500px; height: 200px;">  
-    </a>
-    
-   <a href="https://github.com/yazansedih" style="display: inline-block;">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazansedih&hide=jupyter%20notebook&layout=compact&theme=dark&langs_count=10&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=200&hide_border=true" alt="Top Langs" style="height: 200px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazansedih&hide=html,css,jupyter%20notebook&layout=compact&theme=dark&langs_count=10&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=200&hide_border=true" alt="Top Langs" style="height: 200px;">
    </a>
 </div>
-
-
-
 
