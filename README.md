@@ -16,7 +16,7 @@
     <a href="https://x.com/yazansedeh" target="_blank">
         <img align="center" src="https://github.com/yazansedih/yazansedih/assets/137224224/6d1eca7b-fe9d-42de-8021-0891a59fad01" alt="x" height="40" width="40" />
     </a>
-    <a href="https://leetcode.com/u/s12010059/" target="blank">
+    <a href="https://leetcode.com/u/yazansedih/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
     </a>
     <a href="https://yazansedih.github.io/portfolio/" target="blank">
