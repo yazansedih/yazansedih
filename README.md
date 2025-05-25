@@ -119,22 +119,24 @@ I'm a passionate **Backend Developer** and **Machine Learning Engineer** who lov
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div style="display: flex; justify-content: space-between; gap: 0px;">
   <a href="https://github.com/yazansedih" style="display: inline-block;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=yazansedih&show_icons=true&theme=dark&title_color=fb4362&text_color=ffffff&icon_color=fb4362&hide_border=true" 
-      alt="Yazan's GitHub stats" 
-      style="width: 500px; height: 200px;"
-    />
-        <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=yazansedih&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,typescript&theme=dark&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=395&hide_border=true&show_icons=true" 
-      alt="Top Langs" 
-      style="height: 200px;"
-    />
+    <div style="display: flex; gap: 0px;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=yazansedih&show_icons=true&theme=dark&title_color=fb4362&text_color=ffffff&icon_color=fb4362&hide_border=true" 
+        alt="Yazan's GitHub stats" 
+        style="width: 500px; height: 200px;"
+      />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=yazansedih&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,typescript&theme=dark&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=395&hide_border=true&show_icons=true" 
+        alt="Top Langs" 
+        style="height: 200px;"
+      />
+    </div>
     <img 
       src="https://github-readme-streak-stats.herokuapp.com?user=yazansedih&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" 
       alt="GitHub Streak" 
-      style="width: 490px; height: 200px;"
+      style="width: 480px; height: 200px;"
     />
   </a>
 </div>
