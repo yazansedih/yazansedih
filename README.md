@@ -119,7 +119,7 @@ I'm a passionate **Backend Developer** and **Machine Learning Engineer** who lov
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; gap: 0px;">
+<div>
   <a href="https://github.com/yazansedih" style="display: inline-block;">
     <img 
         src="https://github-readme-stats.vercel.app/api?username=yazansedih&show_icons=true&theme=dark&title_color=fb4362&text_color=ffffff&icon_color=fb4362&hide_border=true" 
@@ -134,7 +134,7 @@ I'm a passionate **Backend Developer** and **Machine Learning Engineer** who lov
     <img 
         src="https://github-readme-streak-stats.herokuapp.com?user=yazansedih&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" 
         alt="GitHub Streak" 
-        style="width: 480px; height: 200px;"
+        style="width: 490px; height: 200px;"
     />
   </a>
 </div>
