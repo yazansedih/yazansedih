@@ -122,9 +122,9 @@ I'm a passionate **Backend Developer** and **Machine Learning Engineer** who lov
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yazansedih&show_icons=true&theme=dark&title_color=fb4362&text_color=ffffff&icon_color=fb4362&hide_border=true" alt="Yazan's GitHub stats" width="495" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazansedih&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,typescript&theme=dark&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=395&hide_border=true&show_icons=true" alt="Top Langs" width="495" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yazansedih&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" width="495" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazansedih&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,typescript&theme=dark&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=395&hide_border=true&show_icons=true" alt="Top Langs" width="495" />
 </div>
 
 ---
