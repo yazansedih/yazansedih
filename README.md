@@ -129,7 +129,7 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=yazansedih&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,typescript&theme=dark&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=200&hide_border=true&show_icons=true" 
       alt="Top Langs" 
-      style="width: 505px; height: 200px;"
+      style="height: 200px;"
     >
 <!--     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazansedih&hide=html,css,jupyter%20notebook&layout=compact&theme=dark&langs_count=10&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=200&hide_border=true" 
