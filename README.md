@@ -144,15 +144,4 @@ I'm a passionate **Backend Developer** and **Machine Learning Engineer** who lov
 ---
 
 ## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yazan-sedieh/" target="_blank">
-    ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-  </a>
-  <a href="https://yazansedieh.github.io/" target="_blank">
-    ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)
-  </a>
-  <a href="mailto:yazansedih@gmail.com" target="_blank">
-    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
-  </a>
-</p>
+Gmail: yazansedih@gmail.com
