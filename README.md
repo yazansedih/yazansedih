@@ -1,8 +1,34 @@
-<h1 align="center">Hi there 👋, I'm Yazan</h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=yazansedih&color=fb4362"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=2680C2&width=435&lines=Backend+Developer;Machine+Learning+Engineer;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yazan+Al-Sedih!;" />    
+</h1>
+<br>
+<div align="center">     
+    <a href="https://www.linkedin.com/in/yazan-al-sedih-4855162b0/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /
+    </a>
+    <a href="https://www.facebook.com/share/ZVVjoCVUcs5hfTsM/?mibextid=AEUHqQ" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/yazansedih?igsh=djN3bWtpcWt4Mm44&utm_source=qr" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+    <a href="https://x.com/yazansedeh" target="_blank">
+        <img align="center" src="https://github.com/yazansedih/yazansedih/assets/137224224/6d1eca7b-fe9d-42de-8021-0891a59fad01" alt="x" height="40" width="40" />
+    </a>
+    <a href="https://leetcode.com/u/yazansedih/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+    </a>
+    <a href="https://yazansedih.github.io/portfolio/" target="blank">
+        <img align="center" src="https://github.com/yazansedih/yazansedih/assets/137224224/325e1c99-cd43-45f3-9221-852ce61be771" alt="portfolio" height="40" width="40" />
+    </a>
+</div>  
+<br>
+<div align="center"> 
+  <a href="mailto:yazansedih@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+    <br>
+</div>
 
 ---
 
@@ -55,7 +81,6 @@ I'm a passionate **Backend Developer** and **Machine Learning Engineer** who lov
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-API-blue?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 💾 Databases
@@ -98,15 +123,15 @@ I'm a passionate **Backend Developer** and **Machine Learning Engineer** who lov
       alt="Yazan's GitHub stats" 
       style="width: 500px; height: 200px;"
     />
+        <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=yazansedih&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,typescript&theme=dark&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=395&hide_border=true&show_icons=true" 
+      alt="Top Langs" 
+      style="height: 200px;"
+    />
     <img 
       src="https://github-readme-streak-stats.herokuapp.com?user=yazansedih&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" 
       alt="GitHub Streak" 
-      style="width: 500px; height: 200px;"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=yazansedih&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,typescript&theme=dark&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=395&hide_border=true&show_icons=true" 
-      alt="Top Langs" 
-      style="width: 500px; height: 200px;"
+      style="width: 490px; height: 200px;"
     />
   </a>
 </div>
