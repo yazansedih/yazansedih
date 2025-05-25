@@ -33,7 +33,7 @@
     <br><br>
 </div>
   
-<h3>🌹 When I code, I rely on :</h3>
+<h3>🌹 When I code, I rely on:</h3>
 <p>
   <!-- Web Development -->
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -119,10 +119,22 @@
 
 ### 🔥 My Stats :
 
-<div style="display:flex; justify-content: space-between;">
-    <a href="https://github.com/yazansedih" style="display: inline-block;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=yazansedih&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" style="width: 500px; height: 200px;">  
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazansedih&hide=html,css,jupyter%20notebook&layout=compact&theme=dark&langs_count=10&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=200&hide_border=true" alt="Top Langs" style="height: 200px;">
-   </a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/yazansedih" style="display: inline-block;">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=yazansedih&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" 
+      alt="GitHub Streak" 
+      style="width: 500px; height: 200px;"
+    >  
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=yazansedih&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,typescript&theme=dark&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=200&hide_border=true&show_icons=true" 
+      alt="Top Langs" 
+      style="width: 505px; height: 200px;"
+    >
+<!--     <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazansedih&hide=html,css,jupyter%20notebook&layout=compact&theme=dark&langs_count=10&title_color=fb4362&text_color=ffffff&icon_color=fb4362&card_width=200&hide_border=true" 
+        alt="Top Langs" 
+        style="width: 505px; height: 200px;"
+    > -->
+  </a>
 </div>
-
