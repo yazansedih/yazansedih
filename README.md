@@ -34,7 +34,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Backend Developer** and **Machine Learning Engineer** who loves solving real-world problems with code. I build robust APIs, data-driven systems, and scalable backend services.
+I'm a passionate **Backend Developer** and **AI Engineer** who loves solving real-world problems with code. I build robust APIs, data-driven systems, and scalable backend services.
 
 - 🔭 Currently working on backend systems using **.NET**, and **MySQL**.
 - 📊 Interested in **AI**, **ML**, and data-centric applications.
