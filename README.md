@@ -34,11 +34,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Backend Developer** and **AI Engineer** who loves solving real-world problems with code. I build robust APIs, data-driven systems, and scalable backend services.
+I'm a passionate Full Stack Developer and AI/ML Engineer who loves solving real-world problems with code. I build robust APIs, responsive web applications, mobile apps, and scalable systems across the entire development stack.
 
-- 🔭 Currently working on backend systems using **.NET**, and **MySQL**.
-- 📊 Interested in **AI**, **ML**, and data-centric applications.
-- 📚 Lifelong learner always eager to explore new tools and technologies.
+🔭 Currently working on full-stack systems using React.js, React Native, .NET, Node.js, and MySQL.
+🌐 Frontend expertise in React.js for web applications and React Native for cross-platform mobile development.
+⚙️ Backend proficiency in ASP.NET Core, Node.js/Express, and RESTful API development.
+📊 Interested in AI, ML, and data-centric applications with modern web technologies.
+📚 Lifelong learner always eager to explore new tools and technologies across the full development spectrum.
 
 ---
 
