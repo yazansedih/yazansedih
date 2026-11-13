@@ -149,7 +149,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yazansedih&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&v=3" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=yazansedih&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&v=4" alt="GitHub streak"/>
 </p>
 
 <p align="center">
