@@ -143,7 +143,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazansedih&layout=compact&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile&theme=dark&title_color=fb4362&text_color=ffffff&hide_border=true" alt="Top languages" height="165"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yazansedih&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&v=4" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=yazansedih&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&v=2" alt="GitHub streak"/>
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/yazansedih/">
